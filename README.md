@@ -1,5 +1,6 @@
 # MyPersonal-Site
-This is my personal website
+This is my personal freelancing website.
+## Contact me for any Web Development projects. 
 
 
 
